@@ -1,0 +1,8 @@
+Esto es sólo una prueba
+
+para utilizar git bash
+
+en el curso de git 
+
+
+con freddy de platzi

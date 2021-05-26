@@ -11,4 +11,5 @@ Un blog increíble para el curso de Git y Github de Platzi
  que involucran el compartir
  contenido por versiones
 * Creado por Leonardo Henao
-* Incluye toda mi experiencia en Git
+* Incluye toda mi experiencia en Git 
+* Disponible para acceso personal
